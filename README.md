@@ -20,10 +20,5 @@ To build a machine learning model which will predict youtube adview count based 
 - Ridge
 - Optuna
 
-## ❤️**Owner**
-Made With ❤️ by [Sidharth kumar mohanty](www.linkedin.com/in/sidharth178)
-
-## 😖Troubleshoot
-Any issues??? Feel free to ask.[Linkedin](www.linkedin.com/in/sidharth178)
-
-If you find this repo useful,don't forget to give a ⭐
+ 
+ 
